@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "cirkuit32",
+    "database": "db_cocina",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}

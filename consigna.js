@@ -59,3 +59,15 @@
 //npm install sequelize sequelize-cli pg pg-hstore
 
 //npx sequelize-cli init
+
+// configurar config
+
+//npx sequelize-cli db:create
+
+//modificar migraciones (si es necesario) modificar los modelos.
+
+//npx sequelize-cli db:migrate
+
+//hacer controlers e index.
+
+//node index.js
